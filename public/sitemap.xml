@@ -2,17 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.org/posts/folding-ebike-1000w/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/edifier-bluetooth-speakers/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/lg-55in-c-series-tv/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/magnetic-charger/</loc>
     <lastmod>2025-05-04T00:46:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/magnetic-charger/</loc>
-    <lastmod>2025-05-04T00:46:48+00:00</lastmod>
+    <loc>https://example.org/posts/ecoflow-delta3-power-station/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-04T00:46:48+00:00</lastmod>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
